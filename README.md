@@ -23,11 +23,11 @@ Podemos usar um protoboard para experimento ou diretatemente no sensor(DHT11).
 
 -- Circuito com ProtoBoard.
 
-![alt text](https://github.com/lailtonmontenegro/arduino-snmp/blob/main/Circuito-protoboad.jpeg)
+![alt text](https://github.com/lailtonmontenegro/arduino-snmp/blob/main/images/Circuito-protoboad.jpeg)
 
 -- Circuito sem o ProtoBoard.
 
-![alt text](https://github.com/lailtonmontenegro/arduino-snmp/blob/main/Circuito-SemProtoboard.jpeg)
+![alt text](https://github.com/lailtonmontenegro/arduino-snmp/blob/main/images/Circuito-SemProtoboard.jpeg)
 
 
 ## Importando a biblioteca Agentuino.
@@ -71,7 +71,7 @@ snmpget -v 1 -r 1 -c public 192.168.0.168 1.3.6.1.4.1.36582.3.2.0
 Exemplo de resultado do snmpget para os ids de temperatura e umidade respectivamente.
 
 
-![alt text](https://github.com/lailtonmontenegro/arduino-snmp/blob/main/Exemploresultado.jpeg)
+![alt text](https://github.com/lailtonmontenegro/arduino-snmp/blob/main/images/Exemploresultado.jpeg)
 
 
 ## Algumas referências. 
